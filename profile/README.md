@@ -1,4 +1,10 @@
-## Hi there 👋
+안녕하세요. 
+
+이 사이트는 SnuAiLab의 모든 소스 코드 및 Issue를 관리하고 있습니다. 
+
+# Repository Naming 규칙
+AutoCare Platform에 관한 Repo는 모두 autocare 로 prefix한다. 
+특정 사이트 프로젝트에 대한 Repo는 모두 prj로 prefix한다. 
 
 <!--
 
@@ -10,3 +16,5 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+
